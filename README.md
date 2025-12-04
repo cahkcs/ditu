@@ -1,2 +1,2 @@
-# ditu
-Battlefield in your palm, conquer the world with strategy
+# 地图战争
+适合在米环设备上运行
