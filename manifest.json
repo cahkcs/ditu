@@ -1,0 +1,40 @@
+{
+  "item": {
+    "name": "地图战争",
+    "description": "策略类游戏，3x6网格（18格）对战AI，占全格子胜、 失全领土败（胜得10斤黄金）。玩家初始1个绿色格子 （每秒增3兵力)，点击绿色格再点相邻格攻击/占领， 耗兵力需达目标防御值。可占矿场得黄金，在商城买 6种道具辅助。策略为优先占低防格、合理用道具、 平衡兵力。购买链接:http://i71i.com/x6j0",
+    "preview": [
+      "preview0.png",
+      "preview1.png",
+      "preview2.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "https://github.com/cahkcs/ditu/tree/main",
+    "author": []
+  },
+  "downloads": {
+    "n66": {
+      "version": "1.2.7",
+      "file_name": "mi.rpk"
+    },
+    "p65": {
+      "version": "1.2.7",
+      "file_name": "ry.rpk"
+    },
+    "n67": {
+      "version": "1.2.7",
+      "file_name": "ry.rpk"
+    },
+    "o66": {
+      "version": "1.2.7",
+      "file_name": "mi.rpk"
+    },
+    "o66nfc": {
+      "version": "1.2.7",
+      "file_name": "mi.rpk"
+    },
+    "o65": {
+      "version": "1.2.7",
+      "file_name": "ty.rpk"
+    }
+  }
+}
